@@ -1,9 +1,14 @@
-# api documentation for  [html5shiv (v3.7.3)](https://github.com/aFarkas/html5shiv#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-html5shiv.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-html5shiv) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-html5shiv.svg)](https://travis-ci.org/npmdoc/node-npmdoc-html5shiv)
+# npmdoc-html5shiv
+
+#### api documentation for  [html5shiv (v3.7.3)](https://github.com/aFarkas/html5shiv#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-html5shiv.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-html5shiv) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-html5shiv.svg)](https://travis-ci.org/npmdoc/node-npmdoc-html5shiv)
+
 #### The HTML5 Shiv enables use of HTML5 sectioning elements in legacy Internet Explorer and provides basic HTML5 styling for Internet Explorer 6-9, Safari 4.x (and iPhone 3.x), and Firefox 3.x.
 
-[![NPM](https://nodei.co/npm/html5shiv.png?downloads=true)](https://www.npmjs.com/package/html5shiv)
+[![NPM](https://nodei.co/npm/html5shiv.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/html5shiv)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-html5shiv/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-html5shiv_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-html5shiv/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-html5shiv/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-html5shiv/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-html5shiv/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-html5shiv/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-html5shiv/build/screenCapture.npmPackageListing.svg)
 
@@ -38,13 +43,11 @@
     "main": "dist/html5shiv.js",
     "maintainers": [
         {
-            "name": "afarkas",
-            "email": "info@corrupt-system.de"
+            "name": "afarkas"
         }
     ],
     "name": "html5shiv",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/aFarkas/html5shiv.git"
@@ -53,16 +56,6 @@
     "version": "3.7.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module html5shiv](#apidoc.module.html5shiv)
-
-
-
-# <a name="apidoc.module.html5shiv"></a>[module html5shiv](#apidoc.module.html5shiv)
 
 
 
